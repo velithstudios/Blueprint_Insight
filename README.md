@@ -3,7 +3,7 @@
 **A unified ecosystem for Blueprint analysis, runtime diagnostics, and architecture enforcement.**  
 AI-assisted Blueprint analysis tool for Unreal Engine 5 — available on [Fab](https://www.fab.com) as a marketplace plugin.
 
-**Created by [Velith Studios](https://www.velithstudios.com)**
+**Created by Velith Studios**
 
 ---
 
@@ -59,4 +59,4 @@ Proprietary plugin. Use governed by [Fab terms](https://www.fab.com/terms) and t
 
 ## Repository
 
-This repo holds **documentation and reference** for the Blueprint Insight Fab plugin. Plugin source lives in your project (`YourProject/Plugins/Blueprint_Insight`). For purchase and latest version, see [Fab](https://www.fab.com) or [Velith Studios](https://www.velithstudios.com).
+This repo holds **documentation and reference** for the Blueprint Insight Fab plugin. Plugin source lives in your project (`YourProject/Plugins/Blueprint_Insight`). For purchase and latest version, see [Fab](https://www.fab.com).
