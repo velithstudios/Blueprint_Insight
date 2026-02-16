@@ -1,0 +1,7 @@
+# GitHub Pages / Jekyll config for Blueprint Insight docs
+# Site URL: https://velithstudios.github.io/Blueprint_Insight/
+
+title: Blueprint Insight
+description: Documentation for the Blueprint Insight plugin — Unreal Engine 5
+baseurl: "/Blueprint_Insight"
+url: "https://velithstudios.github.io"
