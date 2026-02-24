@@ -8,8 +8,8 @@ baseurl: "/Blueprint_Insight"  # GitHub project site: https://velithstudios.gith
 url: ""     # e.g. "https://velithstudios.github.io" - leave empty and GitHub sets it
 
 # Theme: Just the Docs (documentation-style navigation)
-remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs
+# Use remote_theme only; do not set theme: (avoids requiring the just-the-docs gem in Actions)
+remote_theme: just-the-docs/just-the-docs@v0.12.0
 
 # Optional: logo and favicon (add files to docs/assets/ then uncomment)
 # logo: "/assets/logo.png"

@@ -1,8 +1,8 @@
-# Gemfile for local Jekyll (GitHub Pages uses its own environment)
+# Gemfile for GitHub Pages (Actions uses this; avoid gems not in github-pages)
+# Using remote_theme in _config.yml so we don't need the just-the-docs gem.
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9"
-gem "just-the-docs", "~> 0.8"
+gem "github-pages", group: :jekyll_plugins
 
 # Windows may need:
 # gem "wdm", "~> 0.1" if Gem.win_platform?
