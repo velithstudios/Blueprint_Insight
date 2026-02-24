@@ -6,8 +6,8 @@ Blueprint Insight is maintained by **Velith Studios**. Use the links below for d
 
 ## Documentation & help
 
-- **[Full documentation](https://velithstudios.github.io/Blueprint_Insight/documentation.html)** — Installation, features, and usage.
-- **[Support & FAQ](https://velithstudios.github.io/Blueprint_Insight/support.html)** — Contact, troubleshooting, and frequently asked questions.
+- **[Full documentation](docs/documentation.md)** — Installation, features, and usage.
+- **[Support & FAQ](docs/support.md)** — Contact, troubleshooting, and frequently asked questions.
 - **In-editor** — Open **Window → Blueprint Insight** and use the **Help** tab for quick reference.
 
 ---

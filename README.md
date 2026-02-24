@@ -8,11 +8,10 @@ AI-assisted Blueprint analysis tool for Unreal Engine 5. One panel for project h
 
 ## Documentation & support
 
-- **[Full documentation](https://velithstudios.github.io/Blueprint_Insight/documentation.html)** — Installation, features, usage
-- **[Support & FAQ](https://velithstudios.github.io/Blueprint_Insight/support.html)** — Contact, FAQ, troubleshooting
+- **[Full documentation](docs/documentation.md)** — Installation, features, usage
+- **[Support & FAQ](docs/support.md)** — Contact, FAQ, troubleshooting
 - **[Discord](https://discord.gg/XPGJf7V9)** — Community server for support and discussion
-- **[GitHub Issues](https://github.com/velithstudios/Blueprint_Insight/issues)** — Bugs, feature requests, questions
-- **[Velith Studios](https://www.velithstudios.com)** — Contact and more
+- **[GitHub Issues](issues)** — Bugs, feature requests, questions
 
 ---
 
@@ -29,26 +28,26 @@ Purchase or download the plugin from [Fab](https://www.fab.com/) (or your distri
 3. Restart the editor or build the project.
 4. Open **Window → Blueprint Insight** or right-click a Blueprint in the Content Browser → **Analyze with Blueprint Insight**.
 
-**Full steps and troubleshooting:** [docs/installation.md](docs/installation.md) (or see the [docs site](https://velithstudios.github.io/Blueprint_Insight/documentation.html)).
+**Full steps and troubleshooting:** [docs/installation.md](docs/installation.md) (or see [documentation](docs/documentation.md)).
 
 ---
 
 ## Features
 
-Full feature list (Dashboard, Asset Inspector, Runtime Debugger, Architecture & CI, Settings, etc.): **[docs/features.md](docs/features.md)** or [docs site](https://velithstudios.github.io/Blueprint_Insight/features.html).
+Full feature list (Dashboard, Asset Inspector, Runtime Debugger, Architecture & CI, Settings, etc.): **[docs/features.md](docs/features.md)**.
 
 ---
 
 ## Quick start & documentation
 
-- **Quick start and guides** — [docs site](https://velithstudios.github.io/Blueprint_Insight/) · [docs/index.md](docs/index.md)
+- **Quick start and guides** — [docs/index.md](docs/index.md)
 - **In-editor** — **Help** tab in the Blueprint Insight panel
 
 ---
 
 ## Support
 
-**[SUPPORT.md](SUPPORT.md)** — Fab product page, [GitHub Issues](https://github.com/velithstudios/Blueprint_Insight/issues) (bugs & [feature requests](.github/ISSUE_TEMPLATE/feature_request.md)), [Discord](https://discord.gg/XPGJf7V9), and documentation links.
+**[SUPPORT.md](SUPPORT.md)** — Fab product page, [GitHub Issues](issues) (bugs & [feature requests](.github/ISSUE_TEMPLATE/feature_request.md)), [Discord](https://discord.gg/XPGJf7V9), and documentation links.
 
 ---
 
