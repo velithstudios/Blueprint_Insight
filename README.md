@@ -10,8 +10,7 @@ AI-assisted Blueprint analysis tool for Unreal Engine 5. One panel for project h
 
 - **[Full documentation](docs/documentation.md)** — Installation, features, usage
 - **[Support & FAQ](docs/support.md)** — Contact, FAQ, troubleshooting
-- **[Discord](https://discord.gg/XPGJf7V9)** — Community server for support and discussion
-- **[GitHub Issues](issues)** — Bugs, feature requests, questions
+- **[Discord](https://discord.gg/XPGJf7V9)** — Join for support, bug reporting, and feature requests
 
 ---
 
@@ -47,7 +46,7 @@ Full feature list (Dashboard, Asset Inspector, Runtime Debugger, Architecture & 
 
 ## Support
 
-**[SUPPORT.md](SUPPORT.md)** — Fab product page, [GitHub Issues](issues) (bugs & [feature requests](.github/ISSUE_TEMPLATE/feature_request.md)), [Discord](https://discord.gg/XPGJf7V9), and documentation links.
+**[SUPPORT.md](SUPPORT.md)** — Fab product page, [Discord](https://discord.gg/XPGJf7V9) (support, bugs, feature requests), and documentation links.
 
 ---
 

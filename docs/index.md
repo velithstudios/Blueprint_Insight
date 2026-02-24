@@ -31,9 +31,9 @@ A unified editor plugin for **Unreal Engine** that provides Blueprint analysis, 
 - [**Documentation**](documentation.md) — Requirements and usage.
 - [**Features**](features.md) — Complete feature list.
 - [**Support**](support.md) — Contact, FAQ, and troubleshooting.
-- [**Discord**](https://discord.gg/XPGJf7V9) — Community server for support and discussion.
+- [**Discord**](https://discord.gg/XPGJf7V9) — Join for support, bug reporting, and feature requests.
 - [**Get the plugin**](https://www.fab.com/) — Purchase or download (Fab marketplace).
-- [**GitHub**](https://github.com/velithstudios/Blueprint_Insight) — This repo (docs, support, issues).
+- [**GitHub**](https://github.com/velithstudios/Blueprint_Insight) — This repo (docs and support).
 
 ---
 

@@ -13,8 +13,7 @@ Contact, FAQ, and troubleshooting for Blueprint Insight.
 ## Contact
 
 - **Documentation & support** — This site and the [Blueprint Insight GitHub repo](https://github.com/velithstudios/Blueprint_Insight) are the official sources. Use the in-editor **Help** tab for quick reference.
-- **Discord** — [Join the community server](https://discord.gg/XPGJf7V9) for support and discussion.
-- **Issues and requests** — [GitHub Issues](https://github.com/velithstudios/Blueprint_Insight/issues) for bug reports, feature requests, and questions.
+- **Discord** — [Join the community server](https://discord.gg/XPGJf7V9) for support, bug reports, and feature requests.
 - **Plugin purchase** — [Fab](https://www.fab.com/) for purchase and download.
 
 ---

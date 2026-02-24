@@ -14,13 +14,7 @@ Blueprint Insight is maintained by **Velith Studios**. Use the links below for d
 
 ## Community
 
-- **[Discord](https://discord.gg/XPGJf7V9)** — Join the Blueprint Insight Discord server for community support and discussion.
-
----
-
-## Bugs and feature requests
-
-- **[GitHub Issues](https://github.com/velithstudios/Blueprint_Insight/issues)** — Report bugs, request features, or ask questions. We use this repo for all support and documentation.
+- **[Discord](https://discord.gg/XPGJf7V9)** — Join the Blueprint Insight Discord server for support, bug reporting, and feature requests.
 
 ---
 
