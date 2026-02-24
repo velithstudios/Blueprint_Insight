@@ -1,7 +1,39 @@
-# GitHub Pages / Jekyll config for Blueprint Insight docs
-# Site URL: https://velithstudios.github.io/Blueprint_Insight/
+# Blueprint Insight - GitHub Pages (Jekyll)
+# Site will be at https://<username>.github.io/<repo>/
+# Set baseurl to "/<repo>" if this is a project page (not a user/org page).
 
 title: Blueprint Insight
-description: Documentation for the Blueprint Insight plugin — Unreal Engine 5
-baseurl: "/Blueprint_Insight"
-url: "https://velithstudios.github.io"
+description: "Blueprint analysis, dependencies, architecture, and AI-assisted refactoring for Unreal Engine."
+baseurl: "/Blueprint_Insight"  # GitHub project site: https://velithstudios.github.io/Blueprint_Insight/
+url: ""     # e.g. "https://velithstudios.github.io" - leave empty and GitHub sets it
+
+# Theme: Just the Docs (documentation-style navigation)
+remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+
+# Optional: logo and favicon (add files to docs/assets/ then uncomment)
+# logo: "/assets/logo.png"
+
+# Aux links (shown in top right)
+aux_links:
+  "Discord": https://discord.gg/XPGJf7V9
+  "GitHub": https://github.com/velithstudios/Blueprint_Insight
+  "Get on Fab": https://www.fab.com/
+  "Unreal Engine": https://www.unrealengine.com/
+
+# Footer content
+footer_content: "Copyright &copy; Velith Studios. Blueprint Insight for Unreal Engine."
+
+# Search (Just the Docs built-in)
+search_enabled: true
+search_heading: true
+
+# Navigation (order and titles)
+nav_order: 1
+nav_external_links_new_tab: true
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

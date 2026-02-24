@@ -1,0 +1,8 @@
+# Gemfile for local Jekyll (GitHub Pages uses its own environment)
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.9"
+gem "just-the-docs", "~> 0.8"
+
+# Windows may need:
+# gem "wdm", "~> 0.1" if Gem.win_platform?
