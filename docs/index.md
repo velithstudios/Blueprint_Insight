@@ -27,7 +27,8 @@ A unified editor plugin for **Unreal Engine** that provides Blueprint analysis, 
 
 ## Quick links
 
-- [**Documentation**](documentation.md) — Installation, requirements, and usage.
+- [**Installation**](installation.md) — Install the plugin in your project.
+- [**Documentation**](documentation.md) — Requirements and usage.
 - [**Features**](features.md) — Complete feature list.
 - [**Support**](support.md) — Contact, FAQ, and troubleshooting.
 - [**Discord**](https://discord.gg/XPGJf7V9) — Community server for support and discussion.

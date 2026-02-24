@@ -50,7 +50,8 @@ Open `http://localhost:4000`. For a project site, use:
 ## Contents
 
 - **Home** (`index.md`) — Overview and quick links.
-- **Documentation** (`documentation.md`) — Installation, features, usage.
+- **Installation** (`installation.md`) — Install the plugin.
+- **Documentation** (`documentation.md`) — Features, usage.
 - **Support** (`support.md`) — Contact, FAQ, troubleshooting.
 
 Update these Markdown files and push to the branch; GitHub Pages will rebuild automatically.

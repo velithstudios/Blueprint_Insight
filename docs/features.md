@@ -1,7 +1,7 @@
 ---
 title: Features
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 # Features
